@@ -7,8 +7,7 @@
 <div align="center">
   <a href="https://github.com/Redyf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Redyf&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Redyf&layout=compact&langs_count=5&theme=github_dark"/>
-</div>
+  ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SUYASHPATIL400&show_icons=true&theme=github_dark)
   
 
   <div style="display: inline_block"><br>
