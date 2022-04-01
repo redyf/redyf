@@ -2,7 +2,7 @@
 
 - 🔭 Estou a procura de um estágio para adquirir experiência na área e desenvolver minhas habilidades.
 - 🌱 Atualmente estou cursando ciência da computação na Universidade e sou formado em Redes de computadores pelo curso técnico SENAI CIMATEC.
-- 📫 Contate-me no email: Mateusalvespereira7@gmail.com
+- 📫 Contate-me pelo email: mateusalvespereira7@gmail.com
 
 <div align="center">
   <a href="https://github.com/Redyf">
