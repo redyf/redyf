@@ -1,7 +1,7 @@
 ### Olá! Me chamo Mateus Alves.
 
 - 🔭 Estou a procura de um estágio para adquirir experiência na área e desenvolver minhas habilidades.
-- 🌱 Atualmente estou cursando ciência da computação na Universidade e sou formado em Redes de computadores pelo curso técnico SENAI CIMATEC.
+- 🌱 Sou um estudante universitário de Ciência da computação e também formado em Redes de computadores pelo curso técnico SENAI CIMATEC.
 - 📫 Contate-me pelo email: mateusalvespereira7@gmail.com
 
 <div align="center">
