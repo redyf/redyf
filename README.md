@@ -11,6 +11,8 @@
   
 
   <div style="display: inline_block"><br>
+    <img align="center" alt="Redyf-C" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png">
+    
   <img align="center" alt="Redyf-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Redyf-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
   <img align="center" alt="Redyf-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
