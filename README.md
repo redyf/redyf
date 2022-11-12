@@ -1,32 +1,26 @@
-### Olá! Me chamo Mateus Alves.
+<h1 align="center">Hi 👋, I'm Mateus Alves</h1>
+<h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 Estou a procura de um estágio para adquirir experiência na área e desenvolver minhas habilidades.
-- 🌱 Sou um estudante universitário de Ciência da computação e também formado em Redes de computadores pelo curso técnico SENAI CIMATEC.
-- 📫 Contate-me pelo email: mateusalvespereira7@gmail.com
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=redyf&label=Profile%20views&color=0e75b6&style=flat" alt="redyf" /> </p>
 
-<div align="center">
-  <a href="https://github.com/Redyf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Redyf&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redyf&layout=compact&langs_count=7&theme=github_dark"/>
-  
+<p align="left"> <a href="https://twitter.com/redyfxbl" target="blank"><img src="https://img.shields.io/twitter/follow/redyfxbl?logo=twitter&style=for-the-badge" alt="redyfxbl" /></a> </p>
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>  
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="right" alt="Redyf-pic" height="150" style="border-radius:50px;" src=https://cdn.discordapp.com/attachments/692838121003417701/958081571531919430/katara_waterbending_gif.gif>
-</div>
-  
-##
-  
-<div>
-<a href="https://www.youtube.com/c/Redyf" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/ZG7KNaDPp3" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:mateusalvespereira7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mateus-alves-5712601b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-  
-![Snake animation](https://github.com/Redyf/Redyf/blob/output/github-contribution-grid-snake.svg)
+- 🌱 I’m currently learning **Data analytics (Google) on Coursera**
+
+- 💬 Ask me about **Linux**
+
+- 📫 How to reach me **mateusalvespereira7@gmail.com**
+
+- 📄 Know about my experiences [https://pleasant-pin-1e4.notion.site/Mateus-Alves-Pereira-79fb1898e26e4aedb90aef4f3cc95972](https://pleasant-pin-1e4.notion.site/Mateus-Alves-Pereira-79fb1898e26e4aedb90aef4f3cc95972)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/redyfxbl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="redyfxbl" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mateus alves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateus alves" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=redyf&show_icons=true&locale=en&layout=compact" alt="redyf" /></p>
+
