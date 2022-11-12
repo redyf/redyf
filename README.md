@@ -37,11 +37,7 @@
 <br>
 
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Redyf}/count.svg" /></p> 
-<br>
-</div>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Redyf&label=Profile%20Views&color=26A269&style=for-the-badge"/></p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=120&section=footer"/>
   
