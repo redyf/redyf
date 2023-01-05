@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FA9A&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Mateus+Alves;I'm+19+years+old;I'm+from+Brazil;I'm+Studying+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Redyf&bg_color=000000&color=26a269&line=26a269&point=33d17a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Redyf&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
