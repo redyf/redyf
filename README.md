@@ -40,6 +40,6 @@
 
 <div align="center">
   
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/438124064024821773)](https://discord.com/users/438124064024821773?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%doing%something%else) </div>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/438124064024821773?theme=light&bg=809ecf&animated=false&borderRadius=30px&idleMessage=Probably+doing+something+else...)](https://discord.com/users/438124064024821773) </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=120&section=footer"/>
