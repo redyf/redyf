@@ -37,4 +37,9 @@
 <br>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Redyf&label=Profile%20Views&color=26A269&style=for-the-badge"/></p>
+
+<div align="center">
+  
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/438124064024821773)](https://discord.com/users/438124064024821773?theme=dark&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else) </div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=120&section=footer"/>
