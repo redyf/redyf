@@ -12,7 +12,7 @@
 ### My main skills:
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,python,c,git,github,linux,neovim)](https://skillicons.dev)
 ### Studying at the moment:
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django)](https://skillicons.dev)
 </div>
 
 <br>
