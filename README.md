@@ -10,7 +10,7 @@
 <br>
 
 ### My main skills:
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,python,git,github,linux,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,python,git,github,neovim,linux,nix)](https://skillicons.dev)
 ### Studying at the moment:
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 </div>
