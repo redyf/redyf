@@ -12,7 +12,7 @@
 ### My main skills:
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,react,nextjs,python,git,github,neovim,linux,nix)](https://skillicons.dev)
 ### Studying at the moment:
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
 </div>
 
 <br>
@@ -26,7 +26,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Redyf&label=Profile%20Views&color=1e1e2e&style=for-the-badge"/></p>
 
 <div align="center">
-  
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/438124064024821773?theme=light&bg=1e1e2e&animated=false&borderRadius=30px&idleMessage=Probably+doing+something+else...)](https://discord.com/users/438124064024821773) </div>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=223frqcd4sglhnlczco6bmc7a&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=223frqcd4sglhnlczco6bmc7a&redirect=true)
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2e&height=120&section=footer"/>
