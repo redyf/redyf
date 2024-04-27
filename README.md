@@ -11,8 +11,6 @@
 
 ### My main skills:
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,react,nextjs,python,git,github,neovim,linux,nix)](https://skillicons.dev)
-### Studying at the moment:
-[![My Skills](https://skillicons.dev/icons?i=elixir)](https://skillicons.dev)
 </div>
 
 <br>
