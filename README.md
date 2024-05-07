@@ -1,31 +1,24 @@
 # 🐧 About me
-```go
-package main
+```nix
+{pkgs ? import <nixpkgs> {}}: let
+  softwareEngineer = {
+    name = "Mateus Alves";
+    role = "Software Engineer";
+    spokenLanguages = ["Portuguese" "English"];
+    spokenLanguagesString = builtins.concatStringsSep ", " softwareEngineer.spokenLanguages;
+  };
+in
+  with pkgs;
+    writeTextFile {
+      name = "mateus-alves-info.txt";
+      text = ''
+        Name: ${softwareEngineer.name}
+        Role: ${softwareEngineer.role}
+        Spoken Languages: ${softwareEngineer.spokenLanguagesString}
 
-import "fmt"
-
-type SoftwareEngineer struct {
-    name           string
-    role           string
-    languagesSpoken []string
-}
-
-func NewSoftwareEngineer() *SoftwareEngineer {
-    return &SoftwareEngineer{
-        name:           "Mateus Alves",
-        role:           "Software Engineer",
-        languagesSpoken: []string{"Portuguese", "English"},
+        Thanks for dropping by, hope you find some of my work interesting.
+      '';
     }
-}
-
-func (s *SoftwareEngineer) SayHi() {
-    fmt.Println("Thanks for dropping by, hope you find some of my work interesting.")
-}
-
-func main() {
-    me := NewSoftwareEngineer()
-    me.SayHi()
-}
 ```
 
 ## 💹 My Skills 
