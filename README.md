@@ -27,42 +27,42 @@ in
   <summary><b>📌 Programming languages</b></summary>
   <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,python,go,nix)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=js,typescript,python,bash,go,nix)](https://skillicons.dev)
 </details>
 
 <details open>
   <summary><b>📚 Libraries and Frameworks</b></summary>
   <br>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
+[![Libraries and Frameworks](https://skillicons.dev/icons?i=react,nextjs,express)](https://skillicons.dev)
 </details>
 
 <details open>
   <summary><b>🎨 Markup and Style Languages</b></summary>
   <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,markdown)](https://skillicons.dev)
+[![Markup and Style Languages](https://skillicons.dev/icons?i=html,css,markdown)](https://skillicons.dev)
 </details>
 
 <details open>
   <summary><b>🧠 DevOps</b></summary>
   <br>
 
-[![My Skills](https://skillicons.dev/icons?i=docker,nix)](https://skillicons.dev)
+[![DevOps Tools](https://skillicons.dev/icons?i=docker,nix,aws)](https://skillicons.dev)
 </details>
 
 <details open>
   <summary><b>🗄️ Databases</b></summary>
   <br>
     
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 </details>
 
 <details open>
   <summary><b>🔧 Software and Tools</b></summary>
   <br>
     
-[![My Skills](https://skillicons.dev/icons?i=git,github,neovim,linux)](https://skillicons.dev)
+[![Software and Tools](https://skillicons.dev/icons?i=git,github,neovim,linux,obsidian)](https://skillicons.dev)
 </details>
 
 ## 📊 Github stats and extras
