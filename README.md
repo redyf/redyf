@@ -94,12 +94,4 @@ in
 </details>
 <br>
 
-<details>
-  <summary><b>📈 Graphic</b></summary>
-<br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=redyf&bg_color=0a0222&color=b3b3b3&line=157520&point=206541&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</details>
-<br>
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=223frqcd4sglhnlczco6bmc7a&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
