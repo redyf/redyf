@@ -34,7 +34,7 @@ in
   <summary><b>📚 Libraries and Frameworks</b></summary>
   <br>
 
-[![Libraries and Frameworks](https://skillicons.dev/icons?i=react,nextjs,express)](https://skillicons.dev)
+[![Libraries and Frameworks](https://skillicons.dev/icons?i=react,nextjs,express,jest)](https://skillicons.dev)
 </details>
 
 <details open>
