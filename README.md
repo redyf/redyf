@@ -27,7 +27,7 @@ in
   <summary><b>📌 Programming languages</b></summary>
   <br>
 
-[![Programming Languages](https://skillicons.dev/icons?i=js,typescript,python,bash,go,nix)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=js,typescript,python,bash,go,rust)](https://skillicons.dev)
 </details>
 
 <details open>
