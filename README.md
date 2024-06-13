@@ -1,27 +1,7 @@
 # 📜 About me
-```nix
-{pkgs ? import <nixpkgs> {}}: let
-  softwareEngineer = {
-    name = "Mateus Alves";
-    role = "Software Engineer";
-    spokenLanguages = ["Portuguese" "English"];
-    spokenLanguagesString = builtins.concatStringsSep ", " softwareEngineer.spokenLanguages;
-  };
-in
-  with pkgs;
-    writeTextFile {
-      name = "mateus-alves-info.txt";
-      text = ''
-        Name: ${softwareEngineer.name}
-        Role: ${softwareEngineer.role}
-        Spoken Languages: ${softwareEngineer.spokenLanguagesString}
+[![](https://visitcount.itsvg.in/api?id=redyf&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
-        Thanks for dropping by, hope you find some of my work interesting.
-      '';
-    }
-```
-
-## 💹 My Skills 
+## 🛠️ My Skills 
 
 <details open>
   <summary><b>📌 Programming languages</b></summary>
@@ -70,7 +50,7 @@ in
 <details>
   <summary><b>🧬 Public statuses</b></summary>
   <br>
-
+  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=redyf&show_icons=true&bg_color=00000000"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redyf&layout=compact&bg_color=00000000"/>
 
