@@ -1,4 +1,4 @@
-# 🐧 About me
+# 📜 About me
 ```nix
 {pkgs ? import <nixpkgs> {}}: let
   softwareEngineer = {
