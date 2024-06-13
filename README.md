@@ -7,14 +7,14 @@
   <summary><b>📌 Programming languages</b></summary>
   <br>
 
-[![Programming Languages](https://skillicons.dev/icons?i=js,typescript,python,bash,go,rust)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=js,typescript,python,go,rust)](https://skillicons.dev)
 </details>
 
 <details open>
   <summary><b>📚 Libraries and Frameworks</b></summary>
   <br>
 
-[![Libraries and Frameworks](https://skillicons.dev/icons?i=react,nextjs,express,jest)](https://skillicons.dev)
+[![Libraries and Frameworks](https://skillicons.dev/icons?i=react,nextjs,express,jest,tailwind)](https://skillicons.dev)
 </details>
 
 <details open>
@@ -35,7 +35,7 @@
   <summary><b>🗄️ Databases</b></summary>
   <br>
     
-[![Databases](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 </details>
 
 <details open>
@@ -74,4 +74,3 @@
 </details>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=223frqcd4sglhnlczco6bmc7a&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
