@@ -28,7 +28,7 @@
   <summary><b>🧠 DevOps</b></summary>
   <br>
 
-[![DevOps Tools](https://skillicons.dev/icons?i=docker,nix,aws)](https://skillicons.dev)
+[![DevOps Tools](https://skillicons.dev/icons?i=docker,nix,aws,vercel)](https://skillicons.dev)
 </details>
 
 <details open>
