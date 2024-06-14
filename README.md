@@ -1,6 +1,26 @@
 # 📜 About me
 [![](https://visitcount.itsvg.in/api?id=redyf&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
+```nix
+{pkgs ? import <nixpkgs> {}}: let
+  softwareEngineer = {
+    name = "Mateus Alves";
+    role = "Software Engineer";
+    spokenLanguages = ["Portuguese" "English"];
+    spokenLanguagesString = builtins.concatStringsSep ", " softwareEngineer.spokenLanguages;
+  };
+in
+  with pkgs;
+    writeTextFile {
+      name = "mateus-alves-info.txt";
+      text = ''
+        Name: ${softwareEngineer.name}
+        Role: ${softwareEngineer.role}
+        Spoken Languages: ${softwareEngineer.spokenLanguagesString}
 
+        Thanks for dropping by, hope you find some of my work interesting.
+      '';
+    }
+```
 ## 🛠️ My Skills 
 
 <details open>
