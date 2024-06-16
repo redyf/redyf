@@ -62,7 +62,7 @@ in
   <summary><b>🔧 Software and Tools</b></summary>
   <br>
     
-[![Software and Tools](https://skillicons.dev/icons?i=git,github,neovim,linux,obsidian)](https://skillicons.dev)
+[![Software and Tools](https://skillicons.dev/icons?i=git,github,neovim,linux,obsidian,figma)](https://skillicons.dev)
 </details>
 
 ## 📊 Github stats and extras
