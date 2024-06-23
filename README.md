@@ -1,5 +1,5 @@
 # 📜 About me
-[![](https://visitcount.itsvg.in/api?id=redyf&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
+[![visitcount](https://visitcount.itsvg.in/api?id=redyf&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
 ```nix
 {pkgs ? import <nixpkgs> {}}: let
   softwareEngineer = {
@@ -21,7 +21,7 @@ in
       '';
     }
 ```
-## 🛠️ My Skills 
+## 🛠️ Skills 
 
 <details open>
   <summary><b>📌 Programming languages</b></summary>
@@ -92,5 +92,3 @@ in
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=redyf&theme=transparent&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 </details>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=223frqcd4sglhnlczco6bmc7a&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
