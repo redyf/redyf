@@ -7,6 +7,7 @@
     role = "Software Engineer";
     spokenLanguages = ["Portuguese" "English"];
     spokenLanguagesString = builtins.concatStringsSep ", " softwareEngineer.spokenLanguages;
+    education = "BSC @ Unijorge";
   };
 in
   with pkgs;
@@ -16,10 +17,12 @@ in
         Name: ${softwareEngineer.name}
         Role: ${softwareEngineer.role}
         Spoken Languages: ${softwareEngineer.spokenLanguagesString}
+        Education: ${softwareEngineer.education}
 
         Thanks for dropping by, hope you find some of my work interesting.
       '';
     }
+
 ```
 ## 🛠️ Skills 
 
