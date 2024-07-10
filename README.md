@@ -7,7 +7,7 @@
     role = "Software Engineer";
     spokenLanguages = ["Portuguese" "English"];
     spokenLanguagesString = builtins.concatStringsSep ", " softwareEngineer.spokenLanguages;
-    education = "BSC @ Unijorge";
+    education = "BSc @ UNIJORGE";
   };
 in
   with pkgs;
