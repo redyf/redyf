@@ -1,3 +1,5 @@
+![banner](bluebanner.png)
+
 # 📜 About me
 [![visitcount](https://visitcount.itsvg.in/api?id=redyf&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
 ```nix
@@ -74,8 +76,8 @@ in
   <summary><b>🧬 Public statuses</b></summary>
   <br>
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=redyf&show_icons=true&bg_color=00000000"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redyf&layout=compact&bg_color=00000000"/>
+<img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=redyf&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0d1117&title_color=A594FD&icon_color=A594FD"/>
+<img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=redyf&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=A594FD&icon_color=A594FD"/>
 
 </details>
 <br>
