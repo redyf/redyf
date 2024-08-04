@@ -1,27 +1,27 @@
 # 📜 About me
 [![visitcount](https://visitcount.itsvg.in/api?id=redyf&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
-```nix
-{pkgs ? import <nixpkgs> {}}: let
-  softwareEngineer = {
-    name = "Mateus Alves";
-    role = "Software Engineer";
-    spokenLanguages = ["Portuguese" "English"];
-    spokenLanguagesString = builtins.concatStringsSep ", " softwareEngineer.spokenLanguages;
-    education = "BSc @ UNIJORGE";
-  };
-in
-  with pkgs;
-    writeTextFile {
-      name = "mateus-alves-info.txt";
-      text = ''
-        Name: ${softwareEngineer.name}
-        Role: ${softwareEngineer.role}
-        Spoken Languages: ${softwareEngineer.spokenLanguagesString}
-        Education: ${softwareEngineer.education}
-
-        Thanks for dropping by, hope you find some of my work interesting.
-      '';
+```elixir
+defmodule User do
+  def create_user do
+    %{
+      name: "Mateus Alves",
+      role: "Software Developer",
+      languages: ["Portuguese", "English"],
+      education: "BSc @ UNIJORGE"
     }
+    |> (fn user ->
+          """
+          Name: #{user.name}
+          Role: #{user.role}
+          Spoken Languages: #{Enum.join(user.languages, ", ")}
+          Education: #{user.education}
+          """
+        end).()
+    |> IO.puts()
+  end
+end
+
+User.create_user()
 
 ```
 ## 🛠️ Skills 
