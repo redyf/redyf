@@ -1,74 +1,30 @@
 # 📜 About me
+Hi, I'm Mateus Alves! I’m a software developer and a computer science student focused on harnessing technology to make significant impacts in the tech industry and beyond.
 
-```elixir
-defmodule User do
-  def create_user do
-    %{
-      name: "Mateus Alves",
-      role: "Software Developer",
-      languages: ["Portuguese", "English"],
-      education: "BSc @ UNIJORGE"
-    }
-    |> (fn user ->
-          """
-          Name: #{user.name}
-          Role: #{user.role}
-          Spoken Languages: #{Enum.join(user.languages, ", ")}
-          Education: #{user.education}
-          """
-        end).()
-    |> IO.puts()
-  end
-end
+### My Interests:
 
-User.create_user()
+- DevOps: I find the integration of development and operations fascinating, especially how it streamlines workflows and enhances collaboration in tech teams.
+- Functional Programming: I enjoy the elegance and simplicity of functional programming paradigms, which promote immutability and higher-order functions.
+- Open Source Community: Contributing to open source projects excites me, as it fosters collaboration and innovation while allowing me to learn from others in the tech community.
+- Linux: I admire Linux for its versatility and reliability. As an open-source operating system, it empowers users with the freedom to customize their environments, making it a preferred choice for everything from servers to personal devices. Its strong community support and extensive documentation make it an invaluable resource for developers and tech enthusiasts alike. (I use NixOS btw)
 
-```
-## 🛠️ Skills 
+### Technical Skills:
 
-<details open>
-  <summary><b>📌 Programming languages</b></summary>
-  <br>
+- **Languages**: C, JavaScript, TypeScript, Python, Go, Nix
+- **Frameworks & Libraries**: React, Next.js, Node.js, Tailwind CSS
+- **Tools & Platforms**: GitHub, Docker, AWS, Vercel, DigitalOcean
+- **Databases**: MySQL, PostgreSQL
 
-[![Programming Languages](https://skillicons.dev/icons?i=c,js,typescript,python,go)](https://skillicons.dev)
-</details>
+## Key Projects 📚
+- **[Nixdots](https://github.com/redyf/nixdots):** Dotfiles for NixOS.
+- **[Neve](https://github.com/redyf/Neve):** Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options. 
+- **[Portfolio](https://github.com/redyf/portfolio):** My personal portfolio.
 
-<details open>
-  <summary><b>📚 Libraries and Frameworks</b></summary>
-  <br>
+## Professional Goals 🚀
+- **Career Development:** Focused on furthering my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
+- **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills
 
-[![Libraries and Frameworks](https://skillicons.dev/icons?i=react,nextjs,express,jest,tailwind)](https://skillicons.dev)
-</details>
-
-<details open>
-  <summary><b>🎨 Markup and Style Languages</b></summary>
-  <br>
-
-[![Markup and Style Languages](https://skillicons.dev/icons?i=html,css,markdown)](https://skillicons.dev)
-</details>
-
-<details open>
-  <summary><b>🧠 DevOps</b></summary>
-  <br>
-
-[![DevOps Tools](https://skillicons.dev/icons?i=docker,nix,aws,vercel)](https://skillicons.dev)
-</details>
-
-<details open>
-  <summary><b>🗄️ Databases</b></summary>
-  <br>
-    
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
-</details>
-
-<details open>
-  <summary><b>🔧 Software and Tools</b></summary>
-  <br>
-    
-[![Software and Tools](https://skillicons.dev/icons?i=git,github,neovim,linux,obsidian,figma,raspberrypi)](https://skillicons.dev)
-</details>
-
-## 📊 Github stats and extras
+## Github stats and extras 📊
 [![visitcount](https://visitcount.itsvg.in/api?id=redyf&label=Profile%20Views&color=11&icon=6&pretty=true)](https://visitcount.itsvg.in)
 <details>
   <summary><b>🧬 Public statuses</b></summary>
