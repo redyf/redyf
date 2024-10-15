@@ -1,19 +1,17 @@
-# 📜 About me
+## 📜 About me
 Hi, I'm Mateus Alves! I’m a software developer and a computer science student focused on harnessing technology to make significant impacts in the tech industry and beyond.
 
-### My Interests:
-
-- DevOps: I find the integration of development and operations fascinating, especially how it streamlines workflows and enhances collaboration in tech teams.
-- Functional Programming: I enjoy the elegance and simplicity of functional programming paradigms, which promote immutability and higher-order functions.
-- Open Source Community: Contributing to open source projects excites me, as it fosters collaboration and innovation while allowing me to learn from others in the tech community.
-- Linux: I admire Linux for its versatility and reliability. As an open-source operating system, it empowers users with the freedom to customize their environments, making it a preferred choice for everything from servers to personal devices. Its strong community support and extensive documentation make it an invaluable resource for developers and tech enthusiasts alike. (I use NixOS btw)
-
-### Technical Skills:
-
+## Technical Skills 🛠️
 - **Languages**: C, JavaScript, TypeScript, Python, Go, Nix
 - **Frameworks & Libraries**: React, Next.js, Node.js, Tailwind CSS
 - **Tools & Platforms**: GitHub, Docker, AWS, Vercel, DigitalOcean
 - **Databases**: MySQL, PostgreSQL
+
+## My Interests 👀
+- DevOps: I find the integration of development and operations fascinating, especially how it streamlines workflows and enhances collaboration in tech teams.
+- Functional Programming: I enjoy the elegance and simplicity of functional programming paradigms, which promote immutability and higher-order functions.
+- Open Source Community: Contributing to open source projects excites me, as it fosters collaboration and innovation while allowing me to learn from others in the tech community.
+- Linux: I admire Linux for its versatility and reliability. As an open-source operating system, it empowers users with the freedom to customize their environments, making it a preferred choice for everything from servers to personal devices. Its strong community support and extensive documentation make it an invaluable resource for developers and tech enthusiasts alike. (I use NixOS btw)
 
 ## Key Projects 📚
 - **[Nixdots](https://github.com/redyf/nixdots):** Dotfiles for NixOS.
@@ -21,8 +19,8 @@ Hi, I'm Mateus Alves! I’m a software developer and a computer science student 
 - **[Portfolio](https://github.com/redyf/portfolio):** My personal portfolio.
 
 ## Professional Goals 🚀
-- **Career Development:** Focused on furthering my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
-- **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills
+- **Career Development:** Focused on furthering my career in software development, specifically in roles that leverage my technical skills in building impactful tech solutions.
+- **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills.
 
 ## Github stats and extras 📊
 [![visitcount](https://visitcount.itsvg.in/api?id=redyf&label=Profile%20Views&color=11&icon=6&pretty=true)](https://visitcount.itsvg.in)
