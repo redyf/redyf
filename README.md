@@ -1,4 +1,4 @@
-## 📜 About me
+## About me 📜
 Hi, I'm Mateus Alves! I’m a software developer and a computer science student focused on harnessing technology to make significant impacts in the tech industry and beyond.
 
 ## Technical Skills 🛠️
@@ -22,13 +22,5 @@ Hi, I'm Mateus Alves! I’m a software developer and a computer science student 
 - **Career Development:** Focused on furthering my career in software development, specifically in roles that leverage my technical skills in building impactful tech solutions.
 - **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills.
 
-## Github stats and extras 📊
-[![visitcount](https://visitcount.itsvg.in/api?id=redyf&label=Profile%20Views&color=11&icon=6&pretty=true)](https://visitcount.itsvg.in)
-<details>
-  <summary><b>🧬 Public statuses</b></summary>
-  <br>
-  
-<img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=redyf&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0d1117&title_color=A594FD&icon_color=A594FD"/>
-<img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=redyf&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=A594FD&icon_color=A594FD"/>
-
-</details>
+## Connect with Me 📬
+[Discord](https://discord.com/users/438124064024821773)
