@@ -1,5 +1,5 @@
 ## About me 📜
-Hi, I'm Mateus Alves! I’m a software developer and a computer science student focused on harnessing technology to make significant impacts in the tech industry and beyond.
+Hi, I'm Mateus Alves! I’m a software developer & computer science student focused on harnessing technology to make significant impacts in the tech industry and beyond.
 
 ## Technical Skills 🛠️
 - **Languages**: C, JavaScript, TypeScript, Python, Go, Nix
@@ -11,7 +11,7 @@ Hi, I'm Mateus Alves! I’m a software developer and a computer science student 
 - DevOps: I find the integration of development and operations fascinating, especially how it streamlines workflows and enhances collaboration in tech teams.
 - Functional Programming: I enjoy the elegance and simplicity of functional programming paradigms, which promote immutability and higher-order functions.
 - Open Source Community: Contributing to open source projects excites me, as it fosters collaboration and innovation while allowing me to learn from others in the tech community.
-- Linux: I admire Linux for its versatility and reliability. As an open-source operating system, it empowers users with the freedom to customize their environments, making it a preferred choice for everything from servers to personal devices. Its strong community support and extensive documentation make it an invaluable resource for developers and tech enthusiasts alike. (I use NixOS btw)
+- Linux: I admire Linux for its versatility and reliability. As an open-source operating system, it empowers users with the freedom to customize their environments, making it a preferred choice for everything from servers to personal devices. (I use NixOS btw)
 
 ## Key Projects 📚
 - **[Nixdots](https://github.com/redyf/nixdots):** Dotfiles for NixOS.
