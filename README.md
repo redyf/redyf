@@ -2,9 +2,9 @@
 Hi, I'm Mateus Alves! I’m a software developer & computer science student focused on harnessing technology to make significant impacts in the tech industry and beyond.
 
 ## Technical Skills 🛠️
-- **Languages**: TypeScript, Python, Go, Nix
+- **Languages**: Nix, Python, Rust, TypeScript
 - **Frameworks & Libraries**: React, Next.js, Tailwind CSS
-- **Tools & Platforms**: GitHub, Docker, AWS, Vercel, DigitalOcean
+- **Tools & Platforms**: AWS, DigitalOcean, Docker, GitHub, Vercel
 - **Databases**: MySQL, PostgreSQL
 
 ## My Interests 👀
