@@ -1,5 +1,5 @@
 ## About me 📜
-Hi, I'm Mateus Alves! I’m a software developer & computer science student focused on harnessing technology to make significant impacts in the tech industry and beyond.
+Hi, I'm Mateus Alves! I’m a software engineering intern & computer science student focused on harnessing technology to make significant impacts in the tech industry and beyond.
 
 ## Technical Skills 🛠️
 - **Languages**: Nix, Python, Rust, TypeScript
