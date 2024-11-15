@@ -9,13 +9,13 @@ Hi, I'm Mateus Alves! I’m a software engineering intern & computer science stu
 
 ## My Interests 👀
 - DevOps: I find the integration of development and operations fascinating, especially how it streamlines workflows and enhances collaboration in tech teams.
-- Functional Programming: I enjoy the elegance and simplicity of functional programming paradigms, which promote immutability and higher-order functions.
+- Functional Programming: I enjoy the simplicity and predictability of functional programming, especially with its focus on immutability and treating functions as first-class citizens.
+- Linux: I’ve always admired Linux for its flexibility and reliability. It’s the perfect OS for customizing everything to your needs, whether it's for running servers or personal devices. Personally, I use NixOS because of its unique approach to system configuration and package management.
 - Open Source Community: Contributing to open source projects excites me, as it fosters collaboration and innovation while allowing me to learn from others in the tech community.
-- Linux: I admire Linux for its versatility and reliability. As an open-source operating system, it empowers users with the freedom to customize their environments, making it a preferred choice for everything from servers to personal devices. (I use NixOS btw)
 
 ## Key Projects 📚
 - **[Nixdots](https://github.com/redyf/nixdots):** Dotfiles for NixOS.
-- **[Neve](https://github.com/redyf/Neve):** Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options. 
+- **[Neve](https://github.com/redyf/Neve):** Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.
 - **[Portfolio](https://github.com/redyf/portfolio):** My personal portfolio.
 
 ## Professional Goals 🚀
