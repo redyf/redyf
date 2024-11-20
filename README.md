@@ -4,7 +4,8 @@ Hi, I'm Mateus Alves! I’m a software engineering intern & computer science stu
 ## Technical Skills 🛠️
 - **Languages**: Nix, Python, Rust, TypeScript
 - **Frameworks & Libraries**: React, Next.js, Tailwind CSS
-- **Tools & Platforms**: AWS, DigitalOcean, Docker, GitHub, Vercel
+- **Platforms**: AWS, DigitalOcean, GitHub, Vercel
+- **Tools**: Docker, Nginx, Raspberry Pi
 - **Databases**: MySQL, PostgreSQL
 
 ## My Interests 👀
