@@ -6,7 +6,7 @@ Hi, I'm Mateus Alves! I’m a software engineering intern & computer science stu
 - **Frameworks & Libraries**: React, Next.js, Tailwind CSS
 - **Databases**: MySQL, PostgreSQL
 - **Platforms**: AWS, DigitalOcean, GitHub, Vercel
-- **Tools**: Docker, Git, Linux, Nginx, Raspberry Pi
+- **Tools**: Docker, Git, Github Actions, Linux, Nginx, Raspberry Pi
 - **Software**: Postman, Obsidian
 
 
