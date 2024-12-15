@@ -1,5 +1,5 @@
 ## About me 📜
-Hi, I'm Mateus Alves! I’m a software engineering intern & computer science student focused on harnessing technology to make significant impacts in the tech industry and beyond.
+Hi, I’m Mateus Alves, a software engineering intern & computer science student focused on harnessing technology to make significant impacts in the tech industry and beyond.
 
 ## Technical Skills 🛠️
 - **Languages**: Nix, Python, Rust, SQL, TypeScript
@@ -8,7 +8,6 @@ Hi, I'm Mateus Alves! I’m a software engineering intern & computer science stu
 - **Platforms**: AWS, DigitalOcean, GitHub, Vercel
 - **Tools**: Docker, Git, Github Actions, Linux, Nginx, Raspberry Pi
 - **Software**: Postman, Obsidian
-
 
 ## My Interests 👀
 - DevOps: I find the integration of development and operations fascinating, especially how it streamlines workflows and enhances collaboration in tech teams.
@@ -24,6 +23,7 @@ Hi, I'm Mateus Alves! I’m a software engineering intern & computer science stu
 ## Professional Goals 🚀
 - **Career Development:** Focused on furthering my career in software development, specifically in roles that leverage my technical skills in building impactful tech solutions.
 - **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills.
+- **Specialize in DevOps:** Aspiring to deepen my expertise in DevOps by mastering tools and practices that enhance automation, infrastructure management, and continuous delivery. My goal is to build scalable, resilient, and efficient systems that bridge the gap between development and operations.
 
 ## Connect with Me 📬
 [Discord](https://discord.com/users/438124064024821773)
