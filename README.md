@@ -7,7 +7,7 @@ Hi, I’m Mateus Alves, a software engineering intern & computer science student
 - **Databases**: MySQL, PostgreSQL
 - **Platforms**: AWS, DigitalOcean, GitHub, Vercel
 - **Tools**: Docker, Git, Github Actions, Linux, Nginx, Raspberry Pi
-- **Software**: Postman, Obsidian
+- **Software**: Neovim. Obsidian, Postman
 
 ## My Interests 👀
 - DevOps: I find the integration of development and operations fascinating, especially how it streamlines workflows and enhances collaboration in tech teams.
