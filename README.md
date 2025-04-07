@@ -25,8 +25,8 @@ Hi, I’m Mateus Alves, a software developer & computer science student focused 
 - **Specialize in DevOps:** Aspiring to deepen my expertise in DevOps by mastering tools and practices that enhance automation, infrastructure management, and continuous delivery. My goal is to build scalable, resilient, and efficient systems that bridge the gap between development and operations.
 
 ## Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 ## Connect with Me 📬
 [Discord](https://discord.com/users/438124064024821773)
