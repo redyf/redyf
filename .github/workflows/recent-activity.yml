@@ -1,31 +1,30 @@
-name: Update README
+name: 👩‍💻 Update Recent Activity
+
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "0 */6 * * *" # Run every 6 hours
   workflow_dispatch:
+
 jobs:
   build:
-    name: Update this repo's README with recent activity
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    name: Update this repo's README with recent activity
 
     steps:
-      - uses: actions/checkout@v4
+      - name: ↘️ Checkout
+        uses: actions/checkout@v4
 
-      - name: Set up Git config
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: ✍️ Update activity in README.md
+        uses: lissy93/github-activity-readme@master
         with:
-          GH_USERNAME: redyf
-          COMMIT_NAME: github-actions[bot]
-          COMMIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
-          COMMIT_MSG: ":zap: Update README with the recent activity"
+          COMMIT_MSG: "⚡ Update recent activity in README"
           MAX_LINES: 5
-          TARGET_FILE: README.md
-          EMPTY_COMMIT_MSG: ":memo: empty commit to keep workflow active after 60 days of no activity"
-        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 📝 Update RECENT-ACTIVITY.md
+        uses: lissy93/github-activity-readme@master
+        with:
+          COMMIT_MSG: "⚡ Update recent activity in RECENT-ACTIVITY.md"
+          MAX_LINES: 100
+          TARGET_FILE: "RECENT-ACTIVITY.md"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
