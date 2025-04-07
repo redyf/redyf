@@ -16,15 +16,17 @@ jobs:
 
       - name: ✍️ Update activity in README.md
         uses: lissy93/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: "⚡ Update recent activity in README"
           MAX_LINES: 5
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 📝 Update RECENT-ACTIVITY.md
         uses: lissy93/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: "⚡ Update recent activity in RECENT-ACTIVITY.md"
           MAX_LINES: 100
           TARGET_FILE: "RECENT-ACTIVITY.md"
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
