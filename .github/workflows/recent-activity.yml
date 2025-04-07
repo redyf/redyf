@@ -20,7 +20,7 @@ jobs:
           fi
       
       - name: ✍️ Update activity in README.md
-        uses: lissy93/github-activity-readme@v2.4.0 # Usando uma versão específica
+        uses: lissy93/github-activity-readme@master # Usando uma versão específica
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -28,7 +28,7 @@ jobs:
           MAX_LINES: 5
       
       - name: 📝 Update RECENT-ACTIVITY.md
-        uses: lissy93/github-activity-readme@v2.4.0 # Usando a mesma versão específica
+        uses: lissy93/github-activity-readme@master # Usando a mesma versão específica
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
