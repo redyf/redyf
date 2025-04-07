@@ -1,37 +1,22 @@
-name: 👩‍💻 Update Recent Activity
+name: Update Recent Activity
+
 on:
   schedule:
-    - cron: "0 */6 * * *" # Correção na sintaxe do cron (faltava um asterisco)
-  workflow_dispatch:
+    - cron: "0 */6 * * *"  # Run every 6 hours
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
-  build:
+  update-activity:
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
+    name: Update GitHub Activity
     steps:
-      - name: ↘️ Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
-      
-      - name: 📄 Create RECENT-ACTIVITY.md if not exists
-        run: |
-          if [ ! -f RECENT-ACTIVITY.md ]; then
-            touch RECENT-ACTIVITY.md
-            echo "# Recent Activity" > RECENT-ACTIVITY.md
-          fi
-      
-      - name: ✍️ Update activity in README.md
-        uses: lissy93/github-activity-readme@master # Usando uma versão específica
+
+      - name: Update README activity
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: "⚡ Update recent activity in README"
-          MAX_LINES: 5
-      
-      - name: 📝 Update RECENT-ACTIVITY.md
-        uses: lissy93/github-activity-readme@master # Usando a mesma versão específica
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: "⚡ Update recent activity in RECENT-ACTIVITY.md"
-          MAX_LINES: 100
-          TARGET_FILE: "RECENT-ACTIVITY.md"
+          MAX_LINES: 5  # You can increase this if you want to show more activities directly in your README
