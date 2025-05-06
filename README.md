@@ -1,5 +1,5 @@
 ## About me 📜
-Hi, I'm Mateus Alves, a DevOps Engineer & Computer Science student focused on building reliable infrastructure and automating deployment processes. I work with infrastructure as code, cloud technologies, and create efficient workflows that improve development and operations integration.
+Hi, I'm Mateus Pereira, a DevOps Engineer & Computer Science student focused on building reliable infrastructure and automating deployment processes. I work with infrastructure as code, cloud technologies, and create efficient workflows that improve development and operations integration.
 
 ## Technical Skills 🛠️
 ### DevOps & Cloud
