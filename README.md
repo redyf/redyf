@@ -1,15 +1,27 @@
 ## About me 📜
-Hi, I’m Mateus Alves, a software developer & computer science student focused on harnessing technology to make significant impacts in the tech industry and beyond.
+Hi, I'm Mateus Alves, a DevOps Engineer & Computer Science student focused on building reliable infrastructure and automating deployment processes. I work with infrastructure as code, cloud technologies, and create efficient workflows that improve development and operations integration.
 
 ## Technical Skills 🛠️
-- **Languages**: JavaScript, TypeScript, Python, Java, Nix 
-- **Frameworks & Libraries**: React, Next.js, Tailwind CSS
-- **Databases**: MySQL, PostgreSQL
-- **Platforms**: AWS, DigitalOcean, GitHub, Vercel
-- **Tools**: Docker, Git, Github Actions, Linux, Nginx, Raspberry Pi
+### DevOps & Cloud
+
+- CI/CD: GitHub Actions
+- Containerization: Docker
+- Cloud Platforms: AWS, DigitalOcean, Vercel
+
+### Programming & Development
+
+- Languages: Python, TypeScript, Bash, Nix
+- Databases: PostgreSQL, MySQL
+- Web Servers: Nginx
+
+### Tools & Systems
+
+- Version Control: Git, GitHub
+- Operating Systems: Linux (NixOS)
+- Hardware: Raspberry Pi
 
 ## My Interests 👀
-- DevOps: I find the integration of development and operations fascinating, especially how it streamlines workflows and enhances collaboration in tech teams.
+- Cloud Architecture: Exploring scalable and resilient solutions in cloud environments, with a focus in automation and high availability.
 - Functional Programming: I enjoy the simplicity and predictability of functional programming, especially with its focus on immutability and treating functions as first-class citizens.
 - Linux: I’ve always admired Linux for its flexibility and reliability. It’s the perfect OS for customizing everything to your needs, whether it's for running servers or personal devices. Personally, I use NixOS because of its unique approach to system configuration and package management.
 - Open Source Community: Contributing to open source projects excites me, as it fosters collaboration and innovation while allowing me to learn from others in the tech community.
