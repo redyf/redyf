@@ -10,7 +10,7 @@ Hi, I'm Mateus Pereira, a DevOps Engineer & Computer Science student focused on 
 
 ### Programming & Development
 
-- Languages: Python, TypeScript, Bash, Nix
+- Languages: Go,TypeScript, Python, Nix, Bash
 - Databases: PostgreSQL, MySQL
 - Web Servers: Nginx
 
