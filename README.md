@@ -10,7 +10,7 @@ Hi, I'm Mateus Pereira, a DevOps Engineer & Computer Science student focused on 
 
 ### Programming & Development
 
-- Languages: Go, TypeScript, Python, SQL, Nix, Bash
+- Languages: Go, Python, SQL, Nix, Bash
 - Databases: PostgreSQL, MySQL
 - Web Servers: Nginx
 
@@ -29,7 +29,6 @@ Hi, I'm Mateus Pereira, a DevOps Engineer & Computer Science student focused on 
 ## Key Projects 📚
 - **[Nixdots](https://github.com/redyf/nixdots):** My NixOS system configuration.
 - **[Neve](https://github.com/redyf/Neve):** Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.
-- **[Portfolio](https://redyf.me):** My personal portfolio.
 
 ## Professional Goals 🚀
 - **Career Development:** Focused on furthering my career in software development, specifically in roles that leverage my technical skills in building impactful tech solutions.
