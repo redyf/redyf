@@ -5,7 +5,8 @@ Hi, I'm Mateus Pereira, a DevOps Engineer & Computer Science student focused on 
 ### DevOps & Cloud
 
 - CI/CD: GitHub Actions
-- Containerization: Docker
+- Infrastructure as Code (IaC): Terraform, Ansible
+- Containerization & Orchestration: Docker, Kubernetes
 - Cloud Platforms: AWS, DigitalOcean, Vercel
 
 ### Programming & Development
